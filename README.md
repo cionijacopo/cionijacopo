@@ -8,9 +8,9 @@
 - :books: I'm working in a school
 - :zzz: Trying to do my best
 
-##### BIO
+<img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250px" height="250px"/>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif"/>
+##### BIO
 
 - 🏢 I'm currently working at Istituto Calasanzio school
 - ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.psd`
