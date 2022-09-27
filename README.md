@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**cionijacopo/cionijacopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Jacopo Cioni, i'm 23 years old and i'm currently studing computer science at the University of Pisa.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I'm still studying and finishing my exams
+- :books: I'm working in a school
+- :zzz: Trying to do my best
+
+##### BIO
+
+- 🏢 I'm currently working at Istituto Calasanzio school
+- ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.psd`
+- :boom: Hobby: I like skiing :ski: and playing tennis :tennis:
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: 
+- ⚡️ Fun fact: I am celiac :bread:
