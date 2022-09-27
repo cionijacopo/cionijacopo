@@ -10,6 +10,8 @@
 
 ##### BIO
 
+<img align="right" alt="GIF" src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149"/>
+
 - 🏢 I'm currently working at Istituto Calasanzio school
 - ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.psd`
 - :boom: Hobby: I like skiing :ski: and playing tennis :tennis:
