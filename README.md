@@ -10,7 +10,7 @@
 
 ##### BIO
 
-<img align="right" alt="GIF" src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif"/>
 
 - 🏢 I'm currently working at Istituto Calasanzio school
 - ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.psd`
