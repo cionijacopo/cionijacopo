@@ -1,20 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 
-#### I'm Jacopo Cioni, i'm 23 years old and i'm currently studing computer science at the University of Pisa.
+#### I'm Jacopo Cioni, i'm 25 years old and i'm studing MD computer science (ICT Solutions Architect) at the University of Pisa.
 
 ##### NOW
 
-- :computer: I'm still studying and finishing my exams
-- :books: I'm working in a school
-- :zzz: Trying to do my best
+- :computer: Bachelor Degree in Computer Science :mortar_board:
+- :pushpin: Studing MD ICT Solutions Architect
+- :books: Full Professor at Istituto Calasanzio (Computer Science)
 
 <img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250px" height="250px"/>
 
 ##### BIO
 
-- 🏢 I'm currently working at Istituto Calasanzio school
-- ⚙️ I use daily: `.c`, `.js`, `.html`, `.css`, `.psd`
-- :boom: Hobby: I like skiing :ski: and playing tennis :tennis:
+- ⚙️ I use daily: `.c`, `.cpp`, `.html`, `.css`, `.js`, `.py`
+- 🐱 Cat Lover 
+- :boom: Hobby: I like skiing :ski: and playing padel :tennis:
 - 🌱 Learning all about **Open Source**
-- 📫 Reach me: 
+- 📫 Reach me: cionijacopo4@gmail.com
 - ⚡️ Fun fact: I am celiac :bread:
