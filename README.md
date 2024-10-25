@@ -6,7 +6,6 @@
 
 - :computer: Bachelor Degree in Computer Science :mortar_board:
 - :pushpin: Studing MD ICT Solutions Architect
-- :books: Full Professor at Istituto Calasanzio (Computer Science)
 
 <img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250px" height="250px"/>
 
